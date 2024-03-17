@@ -26,6 +26,7 @@ Machine Learning: Used Random Forest ALgorithm
 
 3. *Accessing the System:*
   Accessing the System:
+  http://localhost:5000
 
 
  
